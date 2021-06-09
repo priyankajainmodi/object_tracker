@@ -1,0 +1,1 @@
+Detects and encloses the objects by a box that appears in front of camera and tabulates the time of arrival and exit of the object.This can be used for surveilance in banks,in self-driving cars to keep track of objects all around it etc
